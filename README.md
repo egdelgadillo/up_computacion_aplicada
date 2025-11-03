@@ -1,1 +1,6 @@
-# up_computacion_aplicada
+# Universidad de Palermo - Computacion Aplicada
+## Integrantes
+EMILIANO GASTON DELGADILLO
+LUCAS GARCIA
+VALENTINA SARAVIA RUIZ
+PABLO DAMIÁN SAUCEDO COCHERET
